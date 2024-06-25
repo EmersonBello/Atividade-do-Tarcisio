@@ -1,0 +1,21 @@
+/*Negrito*/
+ p1{
+    font-style: weight; 
+ }
+/*Itáligo*/
+p2{
+    font-style: italic;
+}
+/*Sublinhado*/
+p3{
+    text-decoration: underline;
+}
+/*Itálico + Negrito*/
+p4{
+    font-style: italic;
+    
+}
+/*Itálico + Sublinhado*/
+p5{
+    font-style: italic;
+}
